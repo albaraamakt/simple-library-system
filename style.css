@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+.book-form {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.book-list {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
